@@ -1,0 +1,16 @@
+[System] Multi-Agent Task Execution
+
+Task: Generate experiment report
+
+[Planner] Task decomposition completed
+[Code] Code generation completed
+[Debug] Error fixed
+[Report] Report generated
+
+--------------------------------
+Input Tokens: 21345
+Output Tokens: 11872
+Total Tokens: 33217
+
+Status: SUCCESS
+Time: 3.8s
