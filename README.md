@@ -36,6 +36,7 @@
  项目状态
 
 当前处于开发与测试阶段，持续优化中。
+
 ## Quick Start
 
 ```bash
@@ -79,3 +80,8 @@ Output
 - 多 Agent 协作涉及多轮模型调用
 - Debug 与 Report 阶段会产生额外 token 消耗
 - 并发执行时日消耗可达 30M ~ 100M tokens
+
+## Logs
+
+示例运行日志见：
+`logs/sample_run.txt`
