@@ -36,3 +36,7 @@
  项目状态
 
 当前处于开发与测试阶段，持续优化中。
+## Quick Start
+
+```bash
+python main.py
